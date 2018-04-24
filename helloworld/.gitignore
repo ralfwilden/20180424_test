@@ -1,0 +1,28 @@
+# Studio­specific
+.studio/
+flows/
+target/
+*.mflow
+.mule/ mule­project.xml
+
+# Eclipse files
+.classpath
+.project
+.settings
+/workspace/
+.externalToolBuilders/ 
+*.launch
+.cproject 
+.buildpath
+
+# Test remnants
+objectstore/
+.mule/
+*.log
+temp/
+repository/ 
+muleEmbeddedDB/ 
+activemq­data/ 
+testdir/
+hostkey.ser 
+*.h2.db
